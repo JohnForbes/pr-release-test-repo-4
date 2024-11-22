@@ -1,4 +1,20 @@
 
+# Release v0.0.3
+
+### Patch Changes
+
+#### [Add a useful change (@JAForbes)](https://github.com/johnforbes/pr-release-test-repo-4/pull/1)
+
+This is a supremely valuable addition to this project.
+
+# Release v0.0.3
+
+### Patch Changes
+
+#### [Add a useful change (@JAForbes)](https://github.com/johnforbes/pr-release-test-repo-4/pull/1)
+
+This is a supremely valuable addition to this project.
+
 # Release v0.0.2
 
 ### Patch Changes
