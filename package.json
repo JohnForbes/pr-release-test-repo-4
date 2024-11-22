@@ -1,0 +1,11 @@
+{
+  "name": "pr-release-test-repo-3",
+  "version": "0.0.2",
+  "description": "- Change 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
